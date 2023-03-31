@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #e6f7ff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+h4 {
+    text-align: center;
+    font-size: 10px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 10px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 13px;
+}
+
+h6 {
+    text-align: center;
+    font-size: 13px;
+
+}
+
+img {
+    position: absolute;
+    top: 0;
+    left: -50;
+    max-width: 60px;
+
+}
+
+div {
+    margin: 10px;
+}
+
+hr {
+    color: black;
+    background-color: black;
+    height: 1px;
+    border: none;
+}
